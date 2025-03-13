@@ -1,0 +1,9 @@
+img{
+    width: 400px;
+}
+.all{
+    display: flex;
+}
+p{
+    font-size: 40px;
+}
